@@ -1,0 +1,13 @@
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\bin\Debug\netcoreapp3.1\consoleTest.exe
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\bin\Debug\netcoreapp3.1\consoleTest.deps.json
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\bin\Debug\netcoreapp3.1\consoleTest.runtimeconfig.json
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\bin\Debug\netcoreapp3.1\consoleTest.runtimeconfig.dev.json
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\bin\Debug\netcoreapp3.1\consoleTest.dll
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\bin\Debug\netcoreapp3.1\consoleTest.pdb
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.AssemblyInfoInputs.cache
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.AssemblyInfo.cs
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.csproj.CoreCompileInputs.cache
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.dll
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.pdb
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.genruntimeconfig.cache
+D:\Влад\Prog\Mess\Messenger 2.0\Messenger 2.0\obj\Debug\netcoreapp3.1\consoleTest.csprojAssemblyReference.cache

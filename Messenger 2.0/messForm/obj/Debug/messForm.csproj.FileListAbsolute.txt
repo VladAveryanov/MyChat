@@ -1,0 +1,11 @@
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\bin\Debug\messForm.exe.config
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\bin\Debug\messForm.exe
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\bin\Debug\messForm.pdb
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.Form1.resources
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.Properties.Resources.resources
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.csproj.GenerateResource.cache
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.csproj.CoreCompileInputs.cache
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.exe
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.pdb
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.Form2.resources
+D:\Влад\Prog\Mess\Messenger 2.0\messForm\obj\Debug\messForm.csprojAssemblyReference.cache
